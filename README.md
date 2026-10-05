@@ -8,7 +8,7 @@ Richiede Windows 10/11 a 64 bit e una connessione Internet. Il download è gratu
 
 Scarica l’installatore, eseguilo e scegli la cartella di destinazione. Apri TikGameX e accedi con il tuo account del sito oppure registrati. La sessione dell’app è separata da quella del browser. Per aggiornare, chiudi l’app e installa la nuova versione; gli aggiornamenti del client sono manuali.
 
-L’installatore 1.0.1 non è ancora firmato digitalmente e Windows potrebbe mostrare un avviso sull’autore. Verifica origine e SHA-256 con il file della release. Le prove automatiche verificano interfaccia, isolamento e navigazione; non certificano tutti i flussi con account abbonato, pagamenti, TikTok LIVE e OBS reali.
+L’installatore 1.0.0 non è ancora firmato digitalmente e Windows potrebbe mostrare un avviso sull’autore. Verifica origine e SHA-256 con il file della release. Le prove automatiche verificano interfaccia, isolamento e navigazione; non certificano tutti i flussi con account abbonato, pagamenti, TikTok LIVE e OBS reali.
 
 Questo repository distribuisce esclusivamente installatori e istruzioni. Il codice sorgente, i dati degli account e gli strumenti amministrativi non sono pubblicati qui. L’area amministrativa richiede un account attivo autorizzato come ADMIN.
 
