@@ -6,7 +6,7 @@ Giochi, overlay e Creator Console per le tue TikTok LIVE, in un’app per Window
 
 Richiede Windows 10/11 a 64 bit e una connessione Internet. Il download è gratuito; le funzioni disponibili dipendono dall’account, dal piano e dallo stato di ciascun gioco. Minecraft, Roblox e il software di streaming restano programmi separati.
 
-Scarica l’installatore, eseguilo e scegli la cartella di destinazione. Apri TikGameX e accedi con il tuo account del sito oppure registrati. La sessione dell’app è separata da quella del browser. Per aggiornare, chiudi l’app e installa la nuova versione; gli aggiornamenti del client sono manuali.
+Scarica l’installatore, eseguilo e scegli la cartella di destinazione. Apri TikGameX e accedi con il tuo account del sito oppure registrati. La sessione dell’app è separata da quella del browser. Gli aggiornamenti successivi si gestiscono dentro l’app: **Aggiornamenti → Scarica aggiornamento → Installa e riavvia**. Termina la LIVE e chiudi schede online e output prima di installare. Le vecchie copie prive di questa funzione richiedono una prima installazione del pacchetto attuale, senza disinstallare. La versione pubblica resta **1.0.0**.
 
 L’installatore 1.0.0 non è ancora firmato digitalmente e Windows potrebbe mostrare un avviso sull’autore. Verifica origine e SHA-256 con il file della release. Le prove automatiche verificano interfaccia, isolamento e navigazione; non certificano tutti i flussi con account abbonato, pagamenti, TikTok LIVE e OBS reali.
 
